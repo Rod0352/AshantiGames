@@ -1,0 +1,351 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pause_clip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 30,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "pause_layer/pause_Anim/Path 678": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 29.766666666666666,
+              "value": 0
+            },
+            {
+              "frame": 30,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 680": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 27.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 28,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 686": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 24.916666666666668,
+              "value": 0
+            },
+            {
+              "frame": 25,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 685": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 22.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 23,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 682": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 19.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 20,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 684": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 17.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 18,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 683": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 14.833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 15,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 681": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 12.833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 13,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 679": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 9.833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 675": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 7.833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 8,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 676": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4.833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_layer/pause_Anim/Path 677": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 677": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 676": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4.833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 675": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 7.833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 7.983333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 679": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 9.833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 681": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 12.833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 13,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 683": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 14.833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 15,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 684": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 17.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 18,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 682": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 19.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 20,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 685": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 22.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 23,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 686": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 24.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 25,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 680": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 27.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 28,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pause_Anim/Path 678": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 29.833333333333332,
+              "value": 0
+            },
+            {
+              "frame": 30,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
