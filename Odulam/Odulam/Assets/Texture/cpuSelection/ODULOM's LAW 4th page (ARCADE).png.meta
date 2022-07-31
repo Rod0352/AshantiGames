@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d40ecc95-1953-4bdf-979b-8ebb548679b6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 428,
+  "height": 487,
+  "platformSettings": {},
+  "subMetas": {
+    "ODULOM's LAW 4th page (ARCADE)": {
+      "ver": "1.0.6",
+      "uuid": "e9bc73a2-4683-44ae-bdab-223f6b863c4d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d40ecc95-1953-4bdf-979b-8ebb548679b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 428,
+      "height": 487,
+      "rawWidth": 428,
+      "rawHeight": 487,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

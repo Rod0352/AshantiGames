@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "29c3d14f-576d-4473-949a-d7d30adb9edb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3364,
+  "height": 3400,
+  "platformSettings": {},
+  "subMetas": {
+    "AA CPU Logo": {
+      "ver": "1.0.6",
+      "uuid": "2384891d-10c4-4daa-96d9-deec021d4230",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "29c3d14f-576d-4473-949a-d7d30adb9edb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3364,
+      "height": 3400,
+      "rawWidth": 3364,
+      "rawHeight": 3400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

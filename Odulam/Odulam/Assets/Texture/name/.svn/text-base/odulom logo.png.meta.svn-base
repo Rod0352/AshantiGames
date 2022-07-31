@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6382155d-dc79-4e0c-89aa-dbb517463ee2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 342,
+  "height": 116,
+  "platformSettings": {},
+  "subMetas": {
+    "odulom logo": {
+      "ver": "1.0.6",
+      "uuid": "540f4d76-01fb-4be2-b642-11f505e19492",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6382155d-dc79-4e0c-89aa-dbb517463ee2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -0.5,
+      "trimX": 3,
+      "trimY": 6,
+      "width": 332,
+      "height": 105,
+      "rawWidth": 342,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e85e23f8-08d6-4dda-a28b-10f4b3fc87af",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1440,
+  "height": 900,
+  "platformSettings": {},
+  "subMetas": {
+    "purple-color-gradient-wallpaper-background-gradient-945501415": {
+      "ver": "1.0.6",
+      "uuid": "8a35266d-9036-47e5-8b4f-485a7079482b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e85e23f8-08d6-4dda-a28b-10f4b3fc87af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1440,
+      "height": 900,
+      "rawWidth": 1440,
+      "rawHeight": 900,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

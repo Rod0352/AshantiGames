@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "174e670e-adb4-44e4-857e-781b3443e4e7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 428,
+  "height": 926,
+  "platformSettings": {},
+  "subMetas": {
+    "Splash full logo": {
+      "ver": "1.0.6",
+      "uuid": "2e70f720-b536-4a78-8b87-0dd5b2e64a21",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "174e670e-adb4-44e4-857e-781b3443e4e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 428,
+      "height": 926,
+      "rawWidth": 428,
+      "rawHeight": 926,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

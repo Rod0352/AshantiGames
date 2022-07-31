@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9387ed33-ef00-4199-bb79-2b6af92e4b0e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3997,
+  "height": 891,
+  "platformSettings": {},
+  "subMetas": {
+    "ALKEBULAN ARCADE, LOGO": {
+      "ver": "1.0.6",
+      "uuid": "cfe16e0c-4d2e-4bfd-b878-9d36009c4820",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9387ed33-ef00-4199-bb79-2b6af92e4b0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3997,
+      "height": 891,
+      "rawWidth": 3997,
+      "rawHeight": 891,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

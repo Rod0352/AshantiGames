@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "00428149-91ea-47d2-86c4-555eb8bbbde4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 154,
+  "height": 108,
+  "platformSettings": {},
+  "subMetas": {
+    "AA Private Game logo": {
+      "ver": "1.0.6",
+      "uuid": "1701137a-e952-49c2-ba67-bb9da8388ba1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "00428149-91ea-47d2-86c4-555eb8bbbde4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 146,
+      "height": 100,
+      "rawWidth": 154,
+      "rawHeight": 108,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

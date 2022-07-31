@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "986f8f32-f05b-4b6a-959d-074b948a9e3e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 5268,
+  "height": 1749,
+  "platformSettings": {},
+  "subMetas": {
+    "arcade with shadow": {
+      "ver": "1.0.6",
+      "uuid": "1ea23289-8aa3-407f-8c6f-34a71f61bf7b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "986f8f32-f05b-4b6a-959d-074b948a9e3e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 5268,
+      "height": 1748,
+      "rawWidth": 5268,
+      "rawHeight": 1749,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
